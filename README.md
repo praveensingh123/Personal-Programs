@@ -4,4 +4,14 @@ Each Directory contains description on how to use files.
 
 In this repository, i am giving following implementations.
 
-1) Bayes_Linear_regression_classification: Here i implemented 
+Supervised Learning:
+1) Implememtation of paper "Weight Uncertainty in Neural Networks" https://arxiv.org/abs/1505.05424
+   Bayes_Linear_regression_classification: 
+   Here i implemented for Sine curve and MNIST dataset.
+
+2) Implementation of Linear Regression task on XOR truth table and Dummy data,
+   and Classification tasks on MNIST usning Python/Numpy
+
+Reinforcement Learning:
+3) Implementation of paper : "Continuous control with deep reinforcement learning" 
+   --> Deep Deterministic Policy Gradient Algorithm
