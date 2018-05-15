@@ -13,5 +13,6 @@ Supervised Learning:
    and Classification tasks on MNIST usning Python/Numpy
 
 Reinforcement Learning Algorithms:
+
 3) Implementation of paper : "Continuous control with deep reinforcement learning" https://arxiv.org/abs/1509.02971
    --> Deep Deterministic Policy Gradient Algorithm
