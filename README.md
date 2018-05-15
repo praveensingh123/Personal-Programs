@@ -12,6 +12,6 @@ Supervised Learning:
 2) Implementation of Linear Regression task on XOR truth table and Dummy data,
    and Classification tasks on MNIST usning Python/Numpy
 
-Reinforcement Learning:
-3) Implementation of paper : "Continuous control with deep reinforcement learning" 
+Reinforcement Learning Algorithms:
+3) Implementation of paper : "Continuous control with deep reinforcement learning" https://arxiv.org/abs/1509.02971
    --> Deep Deterministic Policy Gradient Algorithm
