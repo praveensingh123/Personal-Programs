@@ -10,7 +10,7 @@ Supervised Learning:
    Here i implemented for Sine curve and MNIST dataset.
 
 2) Implementation of 
-   Linear Regression task on XOR truth table and Dummy data (File name: ),
+   Linear Regression task on XOR truth table and Dummy data (File name: Regression_sigmoid_linear.ipnb),
    and Classification tasks on MNIST (File name: Vanilla_Neural_Network_Classification_Task_MNIST.ipynb) using Python/Numpy
 
 
