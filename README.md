@@ -9,10 +9,13 @@ Supervised Learning:
    Bayes_Linear_regression_classification: 
    Here i implemented for Sine curve and MNIST dataset.
 
-2) Implementation of Linear Regression task on XOR truth table and Dummy data,
-   and Classification tasks on MNIST usning Python/Numpy
+2) Implementation of 
+   Linear Regression task on XOR truth table and Dummy data (File name: ),
+   and Classification tasks on MNIST (File name: Vanilla_Neural_Network_Classification_Task_MNIST.ipynb) using Python/Numpy
+
 
 Reinforcement Learning Algorithms:
 
-3) Implementation of paper : "Continuous control with deep reinforcement learning" https://arxiv.org/abs/1509.02971
-        --> Deep Deterministic Policy Gradient Algorithm
+1) Deep Deterministic Policy Gradient Algorithm (File Name: DDPG.ipynb)
+   Implementation of paper : "Continuous control with deep reinforcement learning" https://arxiv.org/abs/1509.02971
+    
