@@ -1,8 +1,8 @@
 In this file, i will describe how to use the files.
 
 Linear Regression:
---> Open the Bayes_Regression.ipynb file. I used siniusoidal curve. Please use different curves if you need.
+--> Open the Bayes_Regression.ipynb file in jupyter.  I used siniusoidal curve. Please use different curves if you need.
 
 Classification:
---> Open the file in jupyter and run it. Here, MNIST data is used. Feel free to change.
+--> Open the Bayes_Classification.ipynb file in jupyter. I MNIST data is used. Feel free to change.
 
