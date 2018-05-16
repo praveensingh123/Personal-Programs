@@ -1,7 +1,5 @@
 # Personal-Programs using purely python/numpy for better understanding (No external libraries such as Tensorflow, Theano etc. is used in these programs). Here, my research paper is also attached Hybrid_DDPG_paper.pdf 
 
-Each Directory contains description on how to use files.
-
 In this repository, i am giving following implementations.
 
 Supervised Learning:
